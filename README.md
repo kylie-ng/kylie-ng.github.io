@@ -6,6 +6,8 @@
 ![Activity 1 Screenshot](Activity1_Screenshot.png)
 
 ## Activity 2 (1pt): two screenshots (repo and the deployed website)
+![Activity 2 Screenshot Repo](a2_sc_repo.png)
+![Activity 2 Screenshot Deployed Website](a2_sc_website.png)
 
 ## Activity 3 (1pt): two screenshots (repo and the deployed website)
 
