@@ -14,5 +14,7 @@
 ![Activity 3 Screenshot Deployed Website](a3_sc_website.png)
 
 ## Activity 4 (1pt): two screenshots (repo and the “places travelled” page in deployed website)
+![Activity 4 Screenshot Repo](a4_sc_repo.png)
+![Activity 4 Screenshot "Places Travelled" Page in Deployed Website](a4_sc_places.png)
 
 ## Activity 5 (1pt): a screenshot of top three projects 
