@@ -10,6 +10,8 @@
 ![Activity 2 Screenshot Deployed Website](a2_sc_website.png)
 
 ## Activity 3 (1pt): two screenshots (repo and the deployed website)
+![Activity 3 Screenshot Repo](a3_sc_repo.png)
+![Activity 3 Screenshot Deployed Website](a3_sc_website.png)
 
 ## Activity 4 (1pt): two screenshots (repo and the “places travelled” page in deployed website)
 
