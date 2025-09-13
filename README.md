@@ -18,3 +18,4 @@
 ![Activity 4 Screenshot "Places Travelled" Page in Deployed Website](a4_sc_places.png)
 
 ## Activity 5 (1pt): a screenshot of top three projects 
+![Activity 5 Screenshot of Top Three Recent Projects](a5_sc.png)
